@@ -1,5 +1,5 @@
 # Social Login extension for Magento 2 By MageArray #
-You can buy this extension from  [Here](https://www.magearray.com/social-login-extension-for-magento-2.html).
+You can get this extension from  [Here](https://www.magearray.com/social-login-extension-for-magento-2.html).
 ## Technical Details ##
 * Name: Social Login
 * Compatible With: <br />
