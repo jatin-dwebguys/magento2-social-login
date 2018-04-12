@@ -1,8 +1,10 @@
-# MageArray Social Login extension for Magento 2 #
-You can buy this extension from https://www.magearray.com/social-login-extension-for-magento-2.html
+# Social Login extension for Magento 2 By MageArray #
+You can buy this extension from  [Here](https://www.magearray.com/social-login-extension-for-magento-2.html).
 ## Technical Details ##
 * Name: Social Login
-* Compatible With: Community 2.1, 2.2, Enterprise 2.1, 2.2
+* Compatible With: <br />
+  * Magento Community: 2.0, 2.1, 2.2 <br />
+  * Magento Enterprise: 2.0, 2.1, 2.2 
 
 ## Description
 Social Login extension for Magento2 can help to increase registration rates by making registration process quick and easy for customers.
